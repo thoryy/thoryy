@@ -17,10 +17,10 @@
 <img src="https://discord.c99.nl/widget/theme-3/922126304327905300.png" alt="Discord"/>
 </a>
 
-Hey, I'm Thory, A very good Listner
-
  **Information:**
 
-- 🔭 I’m currently working on  **Thory**
+- 🔭 I’m currently working on  **Learning About AI**
 - 🌱 I’m currently learning  **3d Design and Video Editing**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/922126304327905300)](https://discord.com/users/922126304327905300)
 
