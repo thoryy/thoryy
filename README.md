@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Thory!
+![](https://visitor-badge.laobi.icu/badge?page_id=thoryy.thoryy&style=for-the-badge)
+
 
 <br/>
 <a href="https://discord.com/users/922126304327905300" target="_blank" >
