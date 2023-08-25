@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Thory!
 ![](https://visitor-badge.laobi.icu/badge?page_id=thoryy.thoryy&style=for-the-badge)
-
 /></a><a href="https://www.github.com/thoryy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thoryy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
