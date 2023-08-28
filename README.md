@@ -3,6 +3,8 @@
  </a><a href="https://www.github.com/thoryy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thoryy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![status](https://api.statusbadges.me/badge/status/922126304327905300?simple=true) ![playing](https://api.statusbadges.me/badge/playing/922126304327905300) ![vscode](https://api.statusbadges.me/badge/vscode/922126304327905300) [![spotify](https://api.statusbadges.me/badge/spotify/922126304327905300)](https://api.statusbadges.me/openspotify/922126304327905300)
+
 
 <br/>
 <a href="https://discord.com/users/922126304327905300" target="_blank" >
